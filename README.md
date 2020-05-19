@@ -22,3 +22,20 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Blogger
+Introduction
+
+
+Built With
+Ruby
+RoR
+
+Assignment Page
+http://tutorials.jumpstartlab.com/projects/blogger.html
+
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Authors
+Maryfel Mendoza - Github | LinkedIn | Twitter
